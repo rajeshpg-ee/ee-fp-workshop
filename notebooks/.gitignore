@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.ipython
+.jupyter/
+.local/
+.npm/
+node_modules/
+.bash_history
+package*
